@@ -1,5 +1,6 @@
 ;Chrome on Windows does not force close when Ctrl+Shift+w is accidentally pressed
 SoftName=WarnChromeQuit
+varVERSION=1.0
 
 ;Parameter API=============================================================
 ;Auto-execute
